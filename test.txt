@@ -1,3 +1,3 @@
-This is a test text file.
 I added a new line.
 This is the 三番目の行
+This time I added 4th row at github and deleted the first row.
